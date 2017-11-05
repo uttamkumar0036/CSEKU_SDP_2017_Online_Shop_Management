@@ -1,0 +1,23 @@
+Project name : Online Shop
+
+Project Description : 
+       		
+Programming Language: 	php,css,html
+Database	    :	Mysql
+	
+Developed By:
+	             Mahamud Hasan,Student Id:150239
+	             Niloy barmon,Student Id:150237
+	             Uttam kumar,Student Id:160236
+
+Project Manager : Dr. Kazi Maksudul Alam Sir
+		Associate professor
+			&
+		Dr. Manishankar Mondal
+		Assistant Professor
+		Computer Science & Engineering Discipline ,
+		Khulna University
+		Khulna.
+		  
+Project Details : 
+                >>Online shop

@@ -1,9 +1,0 @@
-We are student in CSE Dicipline in Khulna University,Khulna,Bangladesh.
-Project name : Online Shoping
-Programming language use : php,css,html
-
-Group Name : Goldern Star
-
-Group Member : Mahamud Hasan,Student Id:150239
-	       Niloy barmon,Student Id:150237
-	       Uttam kumar,Student Id:160236
