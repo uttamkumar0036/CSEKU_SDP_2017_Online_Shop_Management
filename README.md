@@ -1,6 +1,6 @@
 Project Title : Online Shop Management 
 
-Project Location : Computer Science & Engineering Discipline,khulna,bangladesh
+Project Location : Computer Science & Engineering Discipline,Khulna,Bangladesh
 
 
 Project Description : 
@@ -8,7 +8,7 @@ Project Description :
 Programming Language: 	php,css,html
 Database	    :	Mysql
 
-Project Manager : Dr. Kazi Maksudul Alam Sir
+Project Manager : Dr. Kazi Masudul Alam Sir
 		Associate professor
 			&
 		Dr. Manishankar Mondal Sir
@@ -39,7 +39,7 @@ Project Details :
 		
 		>>The customar can sign up the page for log in the page.
 		  User have to give  email address in the page with user id and password.
-		  After that in log in page he have to provide username and password.
+		  After that log in page he have to provide username and password.
 		  Then the user get home page in online shop website.
 		  The user choose any product after seeing product details.
 		  
