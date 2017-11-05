@@ -32,6 +32,8 @@ Project Details :
 		>>After viewing the product if he or she want to buy
 		  the product click the option "buy now".
 		  
+	        >>If the product not avaiable system will show "Not Enough Product"
+		  
 		 >>Then system will provide a bkash number to pay the
 		   money.After sending the money user submitt the trangension number.
 		   
