@@ -21,22 +21,25 @@ Project Manager : Dr. Kazi Maksudul Alam Sir
 		  
 Project Details : 
                 >>Online Shop Management is a dynamic website.
-		  Our main terget is to make & easy to comfortable way for shopping.
+		  Our main terget is to make an easy & comfortable way for shopping.
 		
-		>>Firstly the customar sign up the page for log in the page.
-		  User given email address in the page with user id and password.
+		>>The customar can sign up the page for log in the page.
+		  User have to give  email address in the page with user id and password.
+		  After that in log in page he have to provide username and password.
 		  Then the user get home page in online shop website.
-		  The user chose the product after seeing product details.
+		  The user choose any product after seeing product details.
 		  
 		>>After viewing the product if he/she want to buy
-		  the product click the option "buy now".
+		  the product click the option "buy now" with quantity
 		  
-	        >>If the product not avaiable system will show "Not Enough Product"
+	        >>If the product not avaiable,then  system will show "Not Enough Product"
+		>> user can add more product to  buy
+		>> He will have to click pay online button to pay.
 		  
 		 >>Then system will provide a bkash number to pay the
-		   money.After sending the money user submit the transaction number.
+		   money.After sending the money user have to submit the bkash transaction number.
 		   
-		 >>Then the System show that payment procedure.
+		 >>Then the System show that payment procedure is pending.
 		 
 :ADMIN PANNEL:
 		 
@@ -47,17 +50,19 @@ Project Details :
 		 
 		 >>Catagory:
 		              Firstly the admin choose the catagory.
-		              In catagory option he/she can add ,delete ,edit. 
+		              In catagory option he/she can add ,delete ,edit a category name. 
 			      
                  >>Brand:
 		              Then the admin choose the brand.
-		              In brand option he/she can add ,delete ,edit. 
+		              In brand option he/she can add ,delete ,edit a brand name
 		 
 		 >>Product:
 		             Lastly the admin choose the product.
 		             In product option he/she can add a product details
 			     like as name,catagory,brand,image,price,description 
-			     and availability. 
+			     and availability.
+			     Admin can edit any produt.
+			     Admin can delete any produt.
 		 
 		
 		  
