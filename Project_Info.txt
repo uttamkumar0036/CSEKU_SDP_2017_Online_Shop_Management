@@ -1,4 +1,4 @@
-Project name : Online Shop
+Project name : Online Shop Management
 
 Project Description : 
        		
@@ -20,4 +20,8 @@ Project Manager : Dr. Kazi Maksudul Alam Sir
 		Khulna.
 		  
 Project Details : 
-                >>Online shop
+                >>Online Shoping Management System is a dynamic website.
+		our main terget is to make &  easy & comfortable way for shopping.
+		Here the customar See the product details 
+		
+		>>firstly the customar 
