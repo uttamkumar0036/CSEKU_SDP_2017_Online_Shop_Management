@@ -5,11 +5,12 @@ Project Location : Computer Science & Engineering Discipline,Khulna,Bangladesh
 
 Project Description : 
        		
-Programming Language: 	php,css,html
+Programming Language: 	PHP, CSS, HTML
+
 Database	    :	Mysql
 
 Project Manager : Dr. Kazi Masudul Alam Sir
-		Associate professor
+		Associate Professor
 			&
 		Dr. Manishankar Mondal Sir
 		Assistant Professor
@@ -20,20 +21,20 @@ Project Manager : Dr. Kazi Masudul Alam Sir
 
 	
 Developed By:
-	             Mahamud Hasan(150239)
-		     CSE Discipline,
-		     Khulna University,Khulna,Bangladesh
+	             
 		     
 	             Niloy Barmon(150237)
-		     CSE Discipline,
-		     Khulna University,Khulna,Bangladesh
+		     Mahamud Hasan(150239)
+		     Uttam Paul(160236)
 		     
-	             Uttam Paul(160236)
 		     CSE Discipline,
-		     Khulna University,Khulna,Bangladesh
+		     Khulna University,
+		     Khulna,Bangladesh
 
 	  
 Project Details : 
+
+USER : 
                 >>Online Shop Management is a dynamic website.
 		  Our main terget is to make an easy & comfortable way for shopping.
 		
