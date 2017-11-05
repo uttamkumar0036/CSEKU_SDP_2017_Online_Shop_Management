@@ -1,4 +1,7 @@
-Project name : Online Shop Management 
+Project Title : Online Shop Management 
+
+Project Location : Computer Science & Engineering Discipline,khulna,bangladesh
+
 
 Project Description : 
        		
