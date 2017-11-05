@@ -9,9 +9,17 @@ Programming Language: 	php,css,html
 Database	    :	Mysql
 	
 Developed By:
-	             Mahamud Hasan,Student Id:150239
-	             Niloy Barmon,Student Id:150237
-	             Uttam Paul,Student Id:160236
+	             Mahamud Hasan(150239)
+		     CSE Discipline,
+		     Khulna University,Khulna,Bangladesh
+		     
+	             Niloy Barmon(150237)
+		     CSE Discipline,
+		     Khulna University,Khulna,Bangladesh
+		     
+	             Uttam Paul(160236)
+		     CSE Discipline,
+		     Khulna University,Khulna,Bangladesh
 
 Project Manager : Dr. Kazi Maksudul Alam Sir
 		Associate professor
